@@ -1,11 +1,14 @@
 <div align="center">
 
-<img width="100%" alt="Ali Feki — Software Engineering | Full-Stack & AI" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0F172A,100:164E63&amp;height=190&amp;section=header&amp;text=Ali%20Feki&amp;fontSize=48&amp;fontColor=FFFFFF&amp;desc=Software%20Engineering%20%7C%20Full-Stack%20%26%20AI&amp;descSize=18&amp;descAlignY=72" />
+<img width="100%" src="./assets/banner.svg" alt="Ali Feki — Software Engineering | Full-Stack &amp; AI" />
+
+# Ali Feki
+
+**Software Engineering | Full-Stack & AI**
 
 ### Building reliable software. Integrating intelligent capabilities.
 
-[![Portfolio](https://img.shields.io/badge/Explore-Projects-164E63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-Feki-iit?tab=repositories)
-[![Location](https://img.shields.io/badge/Based%20in-Tunisia-334155?style=for-the-badge)](https://github.com/Ali-Feki-iit)
+[Explore my projects](https://github.com/Ali-Feki-iit?tab=repositories) · Tunisia
 
 </div>
 
@@ -48,9 +51,7 @@ Explores how citizens could report and visualize electricity outages in Tunisia 
 
 ## Technical toolkit
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=java,python,ts,js,dart,spring,fastapi,angular,flutter,html,css,postgres,mysql,docker,git,github&amp;perline=8" alt="Java, Python, TypeScript, JavaScript, Dart, Spring, FastAPI, Angular, Flutter, HTML, CSS, PostgreSQL, MySQL, Docker, Git and GitHub" />
-</div>
+
 
 | Domain | Technologies |
 | :--- | :--- |
@@ -68,14 +69,7 @@ Explores how citizens could report and visualize electricity outages in Tunisia 
 
 ## GitHub activity
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ali-Feki-iit&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;hide_rank=true" alt="GitHub public activity statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Feki-iit&amp;layout=compact&amp;hide_border=true&amp;theme=transparent&amp;langs_count=6" alt="Languages in public repositories" />
-
-</div>
-
-Language statistics reflect repository composition, not proficiency. Activity cards depend on an external service.
+[Explore my contributions and public activity](https://github.com/Ali-Feki-iit#contribution-activity).
 
 ## Connect
 
